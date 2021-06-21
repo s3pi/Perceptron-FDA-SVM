@@ -1,4 +1,4 @@
-# Perceptron-FDA-SVM
+### Comparision of classification performance on data projected using FDA, Perceptron and SVM
 In the first part of the assignment, we implemented PCA to reduce the dimensions of 32D BoVW
 to different lower dimensional space, built GMM and performed classification on it. We got
 51.3% accuracy with 12 principal components.
